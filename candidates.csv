@@ -1,0 +1,11 @@
+Name,Headline,Skills,PortfolioLink
+"Priya Sharma","Senior Python Developer | Machine Learning Engineer","Python, Django, Flask, FastAPI, TensorFlow, PyTorch, Scikit-learn, AWS, Docker","https://github.com/priya/ml-projects"
+"Rohan Mehta","Frontend Developer | React & TypeScript Expert","JavaScript, TypeScript, React, Redux, Next.js, HTML5, CSS3, Webpack, UI/UX Design","https://github.com/rohan/react-portfolio"
+"Anjali Singh","Full-Stack Java Developer | Microservices Specialist","Java, Spring Boot, Hibernate, Microservices, Kubernetes, Kafka, PostgreSQL, Jenkins","https://github.com/anjali/java-microservices"
+"Vikram Rathore","Cloud & DevOps Engineer","AWS, Azure, GCP, Terraform, Ansible, Jenkins, CI/CD, Docker, Kubernetes, Python","https://github.com/vikram/devops-infra"
+"Sameer Khan","Mobile App Developer (Android & iOS)","Kotlin, Java, Android SDK, Swift, SwiftUI, iOS, Firebase, GraphQL","https://github.com/sameer/mobile-apps"
+"Mei Lin","Data Scientist | Business Intelligence Analyst","Python, R, SQL, Pandas, NumPy, Tableau, Power BI, Statistical Analysis, Data Modeling","https://github.com/mei/data-science-viz"
+"David Chen",".NET Core & C# Developer","C#, .NET, ASP.NET Core, Entity Framework, Azure, SQL Server, Blazor","https://github.com/david/dotnet-backend"
+"Fatima Al-Jamil","UI/UX Designer & Researcher","Figma, Sketch, Adobe XD, User Research, Wireframing, Prototyping, Usability Testing","https://behance.net/fatima/ux-portfolio"
+"Kenji Tanaka","Game Developer | Unity & C++ Programmer","C++, C#, Unity, Unreal Engine, Game Physics, 3D Graphics, Blender","https://github.com/kenji/game-dev-showcase"
+"Sofia Rossi","Cybersecurity Analyst | Penetration Tester","Cybersecurity, Penetration Testing, Wireshark, Metasploit, Nmap, Security Audits, Python","https://github.com/sofia/cybersec-reports"
